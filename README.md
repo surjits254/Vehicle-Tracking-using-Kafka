@@ -2,6 +2,7 @@
 Tracking location of a Vehicle using Kafka Streaming and outputting data on browser using leaflet.js
 
 ## Video Demo
+https://drive.google.com/file/d/1AwjA10MAOraNeU_WmKrJtt-8Gu0cl-Ek/view?usp=sharing
 
 ## Steps to Run this Project
 <p> 1. Start Zookeeper : <code> zookeeper-server-start config\zookeeper.properties </code> <br>
