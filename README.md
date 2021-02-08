@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1AwjA10MAOraNeU_WmKrJtt-8Gu0cl-Ek/view?usp=shari
     2. Start Kafka     : <code> kafka-server-start config\server.properties </code> <br>
     3. Create Topic    : <code> kafka-topics --bootstrap-server localhost:9092 --topic vehicle_tracking --create --partitions 2 --replication-factor 1 </code> <br>
     4. Run both producer code vehicledata1.py and vehicledata2.py <br>
-    5. Run consume file app.py
+    5. Run consume file app.py <br>
     6. Open localhost:5001 to see the result <br>
 
 ## Reference
